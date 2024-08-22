@@ -2,8 +2,6 @@
 
 I am an undergraduate CS student at IIT, affiliated with the University of Westminster. I have a keen interest in technology and am constantly seeking to improve my skills and knowledge.
 
-![Tharini's Stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my undergraduate degree in Computer Science at IIT.
